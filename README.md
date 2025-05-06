@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # 👋 **Hey there, I'm Abeselom Tesfay Gebremariam**
 
 ---
@@ -15,7 +14,7 @@ Junior Software Developer with practical experience in building full-stack appli
 - 🚦 Developed an advanced **Smart Traffic Prediction** system using **LSTM networks**
 - 🛍️ Built a fully functional **ML-powered product recommender** for an e-commerce platform (Python + React.js)
 - 🧠 Working on modular, production-ready ML projects with clean architecture and documentation
-- 📨 Actively applying for **fully funded MSc programs** in AI, ML, and Data Science across Europe (Italy 🇮🇹, France 🇫🇷, Germany 🇩🇪, Romania 🇷🇴)
+- 📨 Actively applying for **fully funded MSc programs** in AI, ML, and Data Science across Europe 
 
 ⚡ **Fun Fact**: I’m deeply passionate about building tech solutions that make everyday life smarter and more efficient!
 
