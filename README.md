@@ -3,12 +3,12 @@
 ---
 
 **Software Developer** 💻 | **AI & ML Enthusiast** 🤖 | **Data Science Explorer** 📊  
-🎓 BSc in Information Technology | 🇪🇹 Ethiopian | 🌍 Aspiring MSc Student in Europe
+🎓 BSc in Information Technology | 🇪🇹 Ethiopian | 🌍 Aspiring MSc Student in AI
 
 ---
 
 🧑‍💻 **Current Role**  
-Junior Software Developer with practical experience in building full-stack applications, AI models, and scalable backend systems.
+Software Developer with practical experience in building full-stack applications, AI models, and scalable backend systems.
 
 📌 **Key Highlights**
 - 🚦 Developed an advanced **Smart Traffic Prediction** system using **LSTM networks**
@@ -24,6 +24,7 @@ Junior Software Developer with practical experience in building full-stack appli
 
 - 🌐 GitHub: [abeselom-tesfay](https://github.com/abeselom-tesfay)
 - 💼 LinkedIn: [linkedin.com/in/abeselom-tesfay](https://www.linkedin.com/in/abeselom-tesfay)
+- 📧 Email: abeselomtesfay@gmail.com
 
 ---
 
