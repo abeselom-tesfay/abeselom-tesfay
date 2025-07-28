@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abeselom Tesfay Gebremariam
 
-Aspiring MSc student in Artificial Intelligence. I hold a Bachelor's degree in Information Technology from Mekelle University and have a strong background in software development and machine learning projects.
+I am an aspiring MSc student in Artificial Intelligence. I hold a Bachelor's degree in Information Technology from Mekelle University and have a strong background in software development and machine learning.
 
 ---
 
