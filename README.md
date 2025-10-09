@@ -25,24 +25,9 @@ I am an aspiring MSc student in Artificial Intelligence, Machine Learning, and D
 
 ---
 
-## GitHub Stats  
-
-![Abeselom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abeselom-tesfay&show_icons=false&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abeselom-tesfay&layout=compact&theme=default&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=abeselom-tesfay&theme=default&hide_border=true)  
-
----
-
-## GitHub Trophies  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abeselom-tesfay&theme=flat&no-frame=true&margin-w=10)  
-
----
-
 ## Connect With Me  
 
 - **LinkedIn:** [linkedin.com/in/abeselom-tesfay](https://www.linkedin.com/in/abeselom-tesfay)  
-- **GitHub:** [github.com/abeselom-tesfay](https://github.com/abeselom-tesfay)  
 - **Email:** abeselomtesfay@gmail.com  
 
 ---
