@@ -6,16 +6,20 @@ I am an aspiring MSc student in Artificial Intelligence, Machine Learning, and D
 
 ## Selected Projects  
 
-- **Skin Lesion Classification and Detection System** – Designed a dual-stage deep learning pipeline for automated skin cancer diagnosis, integrating U-Net with a VGG16 encoder for lesion segmentation and an ensemble of EfficientNet and DenseNet for multi-class classification. Achieved 96.2% accuracy on the ISIC2018 dataset and deployed as a full-stack web app using Vue.js and Flask.  
+- **Skin Lesion Detection & Classification**
+  - Developed a dual-stage deep learning pipeline: U-Net (VGG16 encoder) for lesion segmentation + Ensemble of EfficientNet-B0 and DenseNet-121 for classification.
+  - Implemented attention mechanisms, focal loss, and adaptive mask generation to handle class imbalance and improve model robustness.
+  - Achieved 96.2% accuracy, 95.8% precision, 94.7% recall, and AUC 0.982 on the ISIC2018 dataset (7 classes, 10,000+ images).
+  - Developed Grad-CAM visualizations, ROC & PR curves for model interpretability.
+  - Deployed as a full-stack web application: [https://skin-lesion-detection.netlify.app/](https://skin-lesion-detection.netlify.app/)  
 - **Smart Traffic Prediction (LSTM)**
-• Developed a deep learning model using Long Short-Term Memory (LSTM) networks to predict traffic flow
-patterns based on the Metro Interstate Traffic Volume dataset.
-• Implemented data preprocessing, feature engineering, and temporal pattern extraction to improve model
-accuracy and reduce prediction latency.
-• Trained and evaluated multiple models, comparing LSTM with GRU, Random Forest, and XGBoost, achieving a
-Root Mean Square Error (RMSE) of 0.037 and R² of 0.94.
-- **Facial Expression Recognition (CNN)** – Built a CNN-based emotion recognition system trained on the FER2013 dataset.  
-- **Car Price Prediction System** – Applied advanced regression models (Random Forest, XGBoost, LightGBM, CatBoost) with detailed performance comparison metrics.  
+  - Developed a deep learning model using Long Short-Term Memory (LSTM) networks to predict traffic flow patterns based on the Metro Interstate Traffic Volume dataset.
+  - Implemented data preprocessing, feature engineering, and temporal pattern extraction to improve model accuracy and reduce prediction latency.
+  - Trained and evaluated multiple models, comparing LSTM with GRU, Random Forest, and XGBoost, achieving a Root Mean Square Error (RMSE) of 0.037 and R² of 0.94.
+- **Facial Expression Recognition Using Hybrid CNN with Spatial Attention (BSc Thesis)**
+  - Developed a hybrid deep learning model using a pre-trained EfficientNet backbone with Spatial Attention mechanisms for emotion-focused feature extraction (Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise).
+  - Fine-tuned on the FER-2013 dataset using TensorFlow, Keras, and OpenCV.
+  - Extended the system for real-time facial emotion recognition through webcam input, with interactive responses triggered by the detected emotions.  
 - **Cloud-Based AI Intrusion Detection System for IoT Networks** – Implemented LSTM and Autoencoder models to detect anomalies in IoT network traffic using NSL-KDD and CICIDS2017 datasets. The system achieved an F1 Macro Average of 93.97% and a Weighted F1 Score of 95%, demonstrating reliable detection and classification of network attacks.  
 
 ---
